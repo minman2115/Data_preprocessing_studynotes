@@ -393,7 +393,7 @@ kstest(after - before, 'norm')
 
 
 
-step 2) 쌍체표본 t검정
+step 3) 쌍체표본 t검정
 
 
 ```python
